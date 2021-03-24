@@ -1,2 +1,2 @@
 # Mask_detection-via-Fastai
-Real Time face detection Using Fastai
+Real Time face mask detection Using Fastai
